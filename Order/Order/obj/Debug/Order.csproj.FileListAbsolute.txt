@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\Laosong\Order\Order\bin\Debug\Order.exe.config
+C:\Users\Administrator\Desktop\Laosong\Order\Order\bin\Debug\Order.exe
+C:\Users\Administrator\Desktop\Laosong\Order\Order\bin\Debug\Order.pdb
+C:\Users\Administrator\Desktop\Laosong\Order\Order\obj\Debug\Order.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Laosong\Order\Order\obj\Debug\Order.exe
+C:\Users\Administrator\Desktop\Laosong\Order\Order\obj\Debug\Order.pdb
