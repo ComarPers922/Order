@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Laosong\AdvBookID\AdvBookID\bin\Debug\AdvBookID.dll
+C:\Users\Administrator\Desktop\Laosong\AdvBookID\AdvBookID\bin\Debug\AdvBookID.pdb
+C:\Users\Administrator\Desktop\Laosong\AdvBookID\AdvBookID\bin\Debug\BookID.dll
+C:\Users\Administrator\Desktop\Laosong\AdvBookID\AdvBookID\bin\Debug\BookID.pdb
+C:\Users\Administrator\Desktop\Laosong\AdvBookID\AdvBookID\obj\Debug\AdvBookID.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Laosong\AdvBookID\AdvBookID\obj\Debug\AdvBookID.dll
+C:\Users\Administrator\Desktop\Laosong\AdvBookID\AdvBookID\obj\Debug\AdvBookID.pdb

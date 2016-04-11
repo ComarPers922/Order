@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Laosong\BookID\BookID\bin\Debug\BookID.dll
+C:\Users\Administrator\Desktop\Laosong\BookID\BookID\bin\Debug\BookID.pdb
+C:\Users\Administrator\Desktop\Laosong\BookID\BookID\obj\Debug\BookID.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Laosong\BookID\BookID\obj\Debug\BookID.dll
+C:\Users\Administrator\Desktop\Laosong\BookID\BookID\obj\Debug\BookID.pdb

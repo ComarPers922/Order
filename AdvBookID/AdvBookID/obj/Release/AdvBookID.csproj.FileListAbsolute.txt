@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\Laosong\AdvBookID\AdvBookID\bin\Release\AdvBookID.dll
+C:\Users\Administrator\Desktop\Laosong\AdvBookID\AdvBookID\bin\Release\AdvBookID.pdb
+C:\Users\Administrator\Desktop\Laosong\AdvBookID\AdvBookID\bin\Release\BookID.dll
+C:\Users\Administrator\Desktop\Laosong\AdvBookID\AdvBookID\bin\Release\BookID.pdb
+C:\Users\Administrator\Desktop\Laosong\AdvBookID\AdvBookID\obj\Release\AdvBookID.dll
+C:\Users\Administrator\Desktop\Laosong\AdvBookID\AdvBookID\obj\Release\AdvBookID.pdb
