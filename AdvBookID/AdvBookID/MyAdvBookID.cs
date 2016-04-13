@@ -42,6 +42,10 @@ namespace AdvBookID
             {
                 returnValue = -1;
             }
+            if (returnValue == 0 && otherText.Length > thisText.Length)
+            {
+                returnValue = 1;
+            }
             returnValue = (returnValue == 0 ? (new MyBookID(TheText)).CompareTo(new MyBookID(other.TheText)) : returnValue);
             return returnValue;
         }
